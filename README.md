@@ -19,7 +19,6 @@ Architectural pattern used in Android app development. It's a design pattern tha
 
 <div style="display: flex; align-items:start ">
     <img src="screenshots/app-archtecture.png"  />
-    <img src="" />
 </div>
 
 ### 📄 License
