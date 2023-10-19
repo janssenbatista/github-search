@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/icon_bg"
+        android:padding="4dp"
+        android:src="@drawable/ic_github"
+        android:contentDescription="@string/app_icon" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.7"
+        android:text="@string/app_version"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/developed_by" />
+
+        <TextView
+            android:id="@+id/tv_developer_name_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:clickable="true"
+            android:text="@string/developer_name"
+            android:textColor="@android:color/holo_blue_dark" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/github_icon_by" />
+
+        <TextView
+            android:id="@+id/tv_icon_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:clickable="true"
+            android:text="@string/icons8"
+            android:textColor="@android:color/holo_blue_dark" />
+
+    </LinearLayout>
+</LinearLayout>

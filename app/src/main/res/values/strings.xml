@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Github Search</string>
+    <string name="github_user">Github User</string>
+    <string name="search_repositories">Search Repositories</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="server_error">Server Error</string>
+    <string name="share_repository">Share Repository</string>
+    <string name="app_version" translatable="false">1.0.0</string>
+    <string name="developer_name" translatable="false">Janssen Batista</string>
+    <string name="developed_by">Developed by</string>
+    <string name="icons8" translatable="false">Icons8</string>
+    <string name="github_icon_by">GitHub Icon by</string>
+    <string name="icon_information">icon that opens dialog information about app</string>
+    <string name="app_icon">app_icon</string>
+</resources>

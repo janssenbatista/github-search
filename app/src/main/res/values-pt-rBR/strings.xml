@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="github_user">Usuário do Github</string>
+    <string name="search_repositories">Buscar Repositórios</string>
+    <string name="user_not_found">Usuário Não Encontrado</string>
+    <string name="share_icon">Ícone de Compartilhamento</string>
+    <string name="server_error">Erro do Servidor</string>
+    <string name="share_repository">Compartilhar Repositório</string>
+    <string name="developed_by">Desenvolvido por</string>
+    <string name="github_icon_by">Ícone do GitHub por</string>
+    <string name="icon_information">ícone que abre a caixa de diálogo com informações sobre o aplicativo</string>
+    <string name="app_icon">ícone do aplicativo</string>
+</resources>
