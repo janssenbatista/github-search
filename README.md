@@ -5,9 +5,10 @@
 <h3 id="screen">📸 Screenshots</p>
 
 <div style="display: flex; justify-content: start; gap: 20px">
-	  <img src="screenshots/1.png" height="600px"/>
+    <img src="screenshots/1.png" height="600px"/>
     <img src="screenshots/2.png" height="600px"/>
     <img src="screenshots/3.png" height="600px"/>
+</div>
 
 ### 📐 App Architecture - MVVM (Model-View-ViewModel)
 
