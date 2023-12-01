@@ -24,7 +24,7 @@ Architectural pattern used in Android app development. It's a design pattern tha
 
 ### 📄 License
 
-```bash
+```
 MIT License
 
 Copyright (c) 2023 Janssen Batista
